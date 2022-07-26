@@ -3,7 +3,7 @@
 #  move to directory to remove ds store.sh
 #  
 #
-#  Created by James Coates on 9/6/2022.
+#  Created by 'https://github.com/nexuspcs' on 26/7/2022.
 #  
 
 find . -name .DS_Store -print0 | xargs -0 git rm -f --ignore-unmatch
