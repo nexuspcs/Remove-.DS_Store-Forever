@@ -12,4 +12,4 @@ If you are interested in learning more, feel free to contact me using my [person
 *** 
 
 **Please note:** All files located within this repository are owned by James Coates, and any unauthorsed use of this repository is **strictly** prohibited. 
-Should you wish to use a sample of my code or images and use it to your moneytary benefit, please contact me by using the emails listed above.
+Should you wish to use a sample of my code or images and use it to your monetary benefit, please contact me by using the emails listed above.
