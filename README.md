@@ -4,7 +4,7 @@ Run this shell script in the repository's directory to find and remove all trace
 Steps:
 1. Git clone this repo, 
 2. Copy and paste the file named `removeDS_Store.sh` (located [here](https://github.com/nexuspcs/Remove-.DS_Store-Forever/blob/main/removeDS_Store.sh)) into your repo's home/root directory.
-3. Then, open a new Temrinal session, making sure that you have used the command 'cd' and changed your terminal directory into your repo.
+3. Then, open a new Terminal session, making sure that you have used the command 'cd' and changed your terminal directory into your repo.
 4. Then, run the following command: `./removeDS_Store.sh`. This simply runs the `.sh` script, and performs the actions within the script.
 5. If you are interested in knowing the workings of the `.sh` script, simply open it in your text editor (hint; it is very simple to understand).
 
